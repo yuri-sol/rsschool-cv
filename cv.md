@@ -1,10 +1,13 @@
 ## Yuri Solianin
 
-![PhotoCV](https://photos.app.goo.gl/zzrhKbsN14GMnWmc8)
+![PhotoCV](C:\Users\Юрий Солянин\Documents\GitHub\cv\Cropped_20211105_124256)
 
+-------------
 #### About me
 -------------
 In search of new experience through gaining knowledge in the field of front-end development
+
+-------------
 #### Contact
 -------------
 
@@ -16,6 +19,7 @@ In search of new experience through gaining knowledge in the field of front-end 
 
 **GitHub:** [github.com/yuri-sol](https://github.com/yuri-sol)
 
+-------------
 #### Skills
 -------------
 * HTML Basics
@@ -23,6 +27,7 @@ In search of new experience through gaining knowledge in the field of front-end 
 * Git/GitHub
 * VS Code
 
+-------------
 #### Education
 -------------
 
@@ -34,12 +39,14 @@ In search of new experience through gaining knowledge in the field of front-end 
 
 * Internet marketer
 
+-------------
 #### Languages
 -------------
 * English - B1/Intermediate
 * Russian - native
 * Belarusian - second native
 
+-------------
 #### Code Examples
 -------------
 ```
@@ -48,6 +55,7 @@ return a * b;
 }
 ```
 
+-------------
 #### Experience
 -------------
 **2011-2013** [BONCOM LTD](https://www.boncom.by/)
