@@ -1,7 +1,5 @@
 ## Yuri Solianin
 
-![PhotoCV](C:\Users\Юрий Солянин\Documents\GitHub\cv\Cropped_20211105_124256)
-
 -------------
 #### About me
 -------------
@@ -31,11 +29,11 @@ In search of new experience through gaining knowledge in the field of front-end 
 #### Education
 -------------
 
-**2006-2011**  [Belarusian-Russian University](http://en.bru.by/)
+**2006-2011**   [Belarusian-Russian University](http://en.bru.by/)
 
 * Electrical engineering 
 
-**2013** [Artox-media](https://amdg.by/)
+**2013**        [Artox-media](https://amdg.by/)
 
 * Internet marketer
 
@@ -58,13 +56,13 @@ return a * b;
 -------------
 #### Experience
 -------------
-**2011-2013** [BONCOM LTD](https://www.boncom.by/)
+**2011-2013**   [BONCOM LTD](https://www.boncom.by/)
 * Sales Manager
 
-**2013-2014** [ARBITEK LTD](https://energobelarus.by/company/elektroshchitovoe_oborudovanie/arbitek_ooo/)
+**2013-2014**   [ARBITEK LTD](https://energobelarus.by/company/elektroshchitovoe_oborudovanie/arbitek_ooo/)
 * Sales Manager
 
-**2014** [PRODUCTION ASSOCIATION ENERGOCOMPLEKT  LTD ](https://vikab.by/)
+**2014**        [PRODUCTION ASSOCIATION ENERGOCOMPLEKT  LTD ](https://vikab.by/)
 * Sales Manager
 
 **2014-present day** [ATAVA-TEHNO LTD ](https://atava.by/)
