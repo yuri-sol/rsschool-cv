@@ -1,0 +1,113 @@
+body {
+    background-color: #eae2d6;
+    font-size: 16px;
+    line-height: normal;
+    font-weight: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.photo {
+    width: 290px;
+    border-radius: 10px;
+    box-shadow: 6px 3px 3px #4D585B;
+}
+
+.info {
+    background-color: #B4B4B4;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    display: flex;
+}
+
+.info-text {
+    padding: 0px;
+    line-height: normal;
+}
+
+.info-text h1 {
+    padding-left: 15px;
+   
+}
+
+.info-text p {
+
+    padding-left: 15px;
+   
+}
+.info-text ul{
+    
+    list-style-type: none;
+    padding-left: 15px;
+
+}
+
+.info-text a {
+    text-decoration: none;
+}
+
+
+.container {
+    max-width: 750px;
+    margin: auto;
+    padding-top: 35px;
+}
+
+.parts {
+    background-color: #B4B4B4;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    
+}
+.parts ul {
+    list-style-type: none;
+    padding-left: 0px;
+    line-height: normal;
+    
+}
+.exptable {
+    width: 750px;
+    line-height: 7px;
+}
+.exptable td {
+    padding-bottom: 10px;
+}
+.exptable a {
+    text-decoration: none;
+}
+
+.edtable {
+    width: 75%;
+    line-height: 7px;
+    
+}
+.edtable td {
+    padding-bottom: 10px;
+    
+}
+.edtable a {
+    text-decoration: none;
+}
+   
+.langtable {
+    width: 67%;
+    line-height: 7px;
+}
+.langtable td {
+    padding-bottom: 10px;
+}
+
+.langtable a {
+    text-decoration: none;
+}
+
+.logo {
+    width: 50px;
+}
+
+.footer {
+    margin: 0 auto;
+    text-align: center;
+    max-width: 750px;
+}
